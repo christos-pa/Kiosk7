@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Build outputs
+publish/
+Release/
+Debug/
+
+# WebView2 / Chromium caches
+**/EBWebView/
+**/WebView2Cache/
+
+# Windows junk
+Thumbs.db
+Desktop.ini
